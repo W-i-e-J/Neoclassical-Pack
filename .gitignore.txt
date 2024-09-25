@@ -1,3 +1,10 @@
 blank.ssc
 Dangerous_Thoughts/Dangerous_Thoughts.mp3
+Dangerous_Thoughts/Dangerous_Thoughts-bg.png
+Dangerous_Thoughts/Dangerous_Thoughts-banner.png
 Cruel_Errors/Cruel_Errors.mp3
+Cruel_Errors/Cruel_Errors-bg.png
+Cruel_Errors/Cruel_Errors-banner.png
+Succession/Succession.mp3
+Succession/Succession-bg.png
+Successoin/Succession-banner.png
