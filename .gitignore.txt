@@ -7,4 +7,4 @@ Cruel_Errors/Cruel_Errors-bg.png
 Cruel_Errors/Cruel_Errors-banner.png
 Succession/Succession.mp3
 Succession/Succession-bg.png
-Successoin/Succession-banner.png
+Succession/Succession-banner.png
