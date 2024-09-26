@@ -8,3 +8,6 @@ Cruel_Errors/Cruel_Errors-banner.png
 Succession/Succession.mp3
 Succession/Succession-bg.png
 Succession/Succession-banner.png
+Royal_Generation/Royal_Generation.mp3
+Royal_Generation/Royal_Generation-bg.png
+Royal_Generation/Royal_Generation-banner.png
